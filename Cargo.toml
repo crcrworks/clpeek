@@ -1,0 +1,10 @@
+[package]
+name = "clpeek"
+description = "Guess the color displayed in hex format"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.2.0"
+eyre = "0.6.12"
+rand = "0.8.5"
